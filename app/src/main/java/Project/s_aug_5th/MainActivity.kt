@@ -68,3 +68,5 @@ class MainActivity : AppCompatActivity() {
 // Creating Conflict, Harsh side
 
 // Creating commit 1
+
+// Creating commit 2
